@@ -13,6 +13,9 @@
 }
 
 @media screen and (max-width: 1200px) {
+  nav {
+    margin: 0 5%;
+  }
   #desktop-nav {
     display: none;
   }
@@ -26,6 +29,9 @@
   #profile,
   .section-container {
     display: block;
+  }
+  .section__text {
+    margin: auto;
   }
   .arrow {
     display: none;
@@ -92,7 +98,7 @@
     justify-content: center;
   }
   .section__text__p2 {
-    font-size: 1.25rem;
+    font-size: 1rem;
   }
   .title {
     font-size: 2rem;
