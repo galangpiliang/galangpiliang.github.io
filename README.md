@@ -3,7 +3,7 @@
 This repository is a temporary portfolio site based on a forked project.
 
 ## Status
-Work in progress. Currently customizing the hero, about, and footer sections.
+Work in progress. Currently customizing the hero, about, and footer sections. ✓ Experience and projects sections customized.
 
 ## Note
 This project is forked for interim use while I design and build a fully custom portfolio website from scratch.
